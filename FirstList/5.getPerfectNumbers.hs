@@ -7,4 +7,4 @@ factors number value
  perfeitos :: Int -> [Int]
  perfeitos 0 = []
  perfeitos number = 
-    -}
+-}
